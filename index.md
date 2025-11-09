@@ -22,10 +22,16 @@ function slowsort(A, i, j) {
 
 ### This is h3
 
+- [ ] Yawn when assigned new work
+- [ ] Force push to the repository every single time
+- [ ] Do the bare mimimum
+- [ ] 😁👍
+
 #### This is h4
 
 ##### This is h5
 
 ###### This is h6
+
 
 
